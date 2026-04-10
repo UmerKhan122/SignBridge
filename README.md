@@ -2,7 +2,20 @@
 
 **A modern web-based platform to learn American Sign Language (ASL) with real-time hand gesture detection.**
 
-![SignBridge Banner](https://via.placeholder.com/800x300/6ee7b7/0a0e1a?text=SignBridge+-+Learn+ASL)
+<img width="819" height="390" alt="image" src="https://github.com/user-attachments/assets/abe7ff11-dbfe-44d0-a5cd-cc70fb6268fd" />
+<img width="820" height="384" alt="image" src="https://github.com/user-attachments/assets/f2abbe63-7805-4fcb-af79-08806212b49d" />
+<img width="822" height="390" alt="image" src="https://github.com/user-attachments/assets/c1c0ce93-6338-4057-b8db-a1caa5c19084" />
+<img width="819" height="375" alt="image" src="https://github.com/user-attachments/assets/63015054-275c-4531-91cc-cceedfe3ba97" />
+<img width="819" height="389" alt="image" src="https://github.com/user-attachments/assets/b172e298-d1ca-4396-b662-21ff408b243e" />
+<img width="819" height="387" alt="image" src="https://github.com/user-attachments/assets/7e7d5fbe-c4c7-4cac-b395-9f167008027c" />
+<img width="819" height="383" alt="image" src="https://github.com/user-attachments/assets/066cb1f3-402e-4828-a1fa-5c9ebe7958c1" />
+<img width="819" height="390" alt="image" src="https://github.com/user-attachments/assets/ddb9d2bb-70c5-4a87-9a4d-3d4c3ea3c696" />
+<img width="819" height="389" alt="image" src="https://github.com/user-attachments/assets/3cc6c927-4167-4b2b-a9e3-1e9f1b275d3e" />
+<img width="831" height="394" alt="image" src="https://github.com/user-attachments/assets/b7d4829e-50eb-4c64-ba72-74333451e07a" />
+<img width="832" height="393" alt="image" src="https://github.com/user-attachments/assets/41243b2a-2d7a-42e7-8eed-78588b24f5d5" />
+<img width="828" height="392" alt="image" src="https://github.com/user-attachments/assets/f2f91134-a434-4f1b-914b-bd52686fe912" />
+<img width="832" height="392" alt="image" src="https://github.com/user-attachments/assets/a6e78cc1-106a-4f47-8e0b-2099935c2215" />
+
 
 ## 🎯 Project Overview
 
