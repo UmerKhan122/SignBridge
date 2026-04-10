@@ -50,7 +50,8 @@ INSERT INTO `achievements` (`id`, `name`, `description`, `icon`, `xp_reward`) VA
 (8, 'Conversationalist', 'Accumulate 500 XP', '💬', 50),
 (9, 'Dedicated Learner', 'Complete 30 practice sessions', '🎓', 200),
 (10, 'Quiz Ace', 'Score 100% on any quiz', '🧠', 75),
-(11, 'Lesson Complete', 'Finish your first full lesson', '📚', 50);
+(11, 'Lesson Complete', 'Finish your first full lesson', '📚', 50),
+(12, 'SignBridge Graduate', 'Successfully complete the final Phrases course!', '🎓', 500);
 
 -- --------------------------------------------------------
 
